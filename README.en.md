@@ -16,6 +16,10 @@ Console exercises from the basic OTUS course. These are playgrounds, not an app.
 - Homework 10 — an athlete class, subclasses, and polymorphism.
 - Homework GCD — print order on queues, a custom serial queue, a custom concurrent queue, and a deadlock. This is the second, fuller write-up.
 
+- Network — a short JSON example. The network call in the file is commented out.
+- Codable — encode and decode, custom keys, optional fields, dates, and nested data.
+- Adapter, Bridge, Decorator, Facade, Proxy — structural patterns.
+
 ## Run
 
 ```bash
